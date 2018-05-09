@@ -17,6 +17,11 @@ import org.testng.Assert;
 import io.branch.dto.AllEmployeeBeans;
 import io.branch.pageobjects.PageObject;
 
+/**
+ * This class contains all the business  information
+ * @author sravanivadrevu
+ *
+ */
 public class BusinessLogic {
 
 	WebDriver driver;
